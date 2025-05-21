@@ -48,20 +48,24 @@ Let:
   $$ Q_s = 2 \cdot P - 20 $$
 
 Where:
-- $$ Q_d, Q_s $$: Quantity of housing units demanded and supplied (in thousands)
-- $$ P $$: Monthly rent in hundreds of euros (e.g., $$ P = 25 $$ = 2,500€)
+- $Q_d, Q_s$: Quantity of housing units demanded and supplied (in thousands)
+- $P$: Monthly rent in hundreds of euros (e.g., $P = 25$ = 2,500€)
 
 ### Questions
 
 1. **Equilibrium Analysis**
-   - Find the equilibrium price and quantity by solving $$ Q_d = Q_s $$.
+   - Find the equilibrium price and quantity by solving:
+
+        $$
+        Q_d = Q_s
+        $$
 
 2. **Surplus or Shortage**
-   - At $$ P = 25 $$ and $$ P = 35 $$, calculate $$ Q_d $$ and $$ Q_s $$.
+   - At $P = 25$ and $P = 35$, calculate $Q_d$ and $Q_s$.
    - Determine whether there is a **shortage** or **surplus**, and compute the size.
 
 3. **Impact of Price Ceiling**
-   - Suppose the government imposes a rent cap at $$ P = 20 $$.
+   - Suppose the government imposes a rent cap at $P = 20$.
    - Determine the quantity demanded and supplied.
    - Use a supply-demand diagram to illustrate the **shortage**.
    - (Optional) Calculate the **deadweight loss**.
