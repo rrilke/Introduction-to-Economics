@@ -17,7 +17,7 @@ This course introduces the fundamental concepts of economics, with a focus on mi
 #### Day 2
 
 - 09:00 – 09:45: Block 6: Imperfect Competition: Concepts and Examples
-- 09:45 – 10:30: Block 7: Lecture
+- 09:45 – 10:30: Block 7: Game Theory and Cartels
 - 10:30 – 11:15: Block 8: Case Study Group Work
 - 11:15 – 11:35: Break (20 min)
 - 11:35 – 12:20: Block 9: Case Study Presentations
