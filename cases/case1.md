@@ -1,5 +1,6 @@
 # Case Study: *Frozen Rents, Hot Debate: Berlin’s Mietendeckel and the Economics of Rent Control*
 
+<!--
 ## Case Synopsis (Instructor Version)
 
 In February 2020, the Berlin Senate implemented one of the most ambitious rent control policies in Europe, known as the *Mietendeckel* (rent cap). The law froze rents for five years at mid-2019 levels, restricted rent increases, and penalized landlords who charged above government-mandated thresholds. This policy was a response to rising rents and growing public discontent, especially among younger, lower-income tenants. However, critics warned that the rent cap would reduce housing supply, discourage investment, and create inefficiencies.
@@ -9,8 +10,9 @@ A year later, preliminary data began to emerge: the number of rental listings in
 Students are placed in the role of economic advisors tasked with analyzing the policy’s effects and advising another European city considering similar regulation. They must assess both theoretical and empirical outcomes and reflect on the persistence of such policies despite their well-known downsides in economic models.
 
 ---
+-->
 
-## Case Narrative (Student Version)
+## Case
 
 **Berlin, Winter 2021.**  
 The capital was in turmoil. Over the last decade, rents had more than doubled in many central neighborhoods, pricing out students, artists, and working-class families. With protest slogans like *"Housing for people, not for profit,"* activists pressured lawmakers to take bold action.
