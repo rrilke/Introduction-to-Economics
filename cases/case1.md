@@ -1,18 +1,19 @@
-# Case Study: *Frozen Rents, Hot Debate: Berlin’s Mietendeckel and the Economics of Rent Control*
+# Case Study: *Frozen Rents, Hot Debate – Berlin’s Mietendeckel and the Economics of Rent Control*
 
 <!--
 ## Case Synopsis (Instructor Version)
 
-In February 2020, the Berlin Senate implemented one of the most ambitious rent control policies in Europe, known as the *Mietendeckel* (rent cap). The law froze rents for five years at mid-2019 levels, restricted rent increases, and penalized landlords who charged above government-mandated thresholds. This policy was a response to rising rents and growing public discontent, especially among younger, lower-income tenants. However, critics warned that the rent cap would reduce housing supply, discourage investment, and create inefficiencies.
+In February 2020, the Berlin Senate implemented one of the most ambitious rent control policies in Europe, known as the *Mietendeckel* (rent cap). The law froze rents at mid-2019 levels, restricted rent increases, and penalized landlords who charged above government-mandated thresholds. This policy was a response to rising rents and growing public discontent, especially among younger, lower-income tenants. However, critics warned that the rent cap would reduce housing supply, discourage investment, and create inefficiencies.
 
 A year later, preliminary data began to emerge: the number of rental listings in the regulated segment dropped sharply, new construction slowed, and landlords began shifting properties into owner-occupation or the unregulated segment. At the same time, tenants in capped apartments reported tangible savings. In 2021, Germany’s Constitutional Court overturned the law, declaring that Berlin had overstepped its legislative authority — but the political and economic debate continues.
 
 Students are placed in the role of economic advisors tasked with analyzing the policy’s effects and advising another European city considering similar regulation. They must assess both theoretical and empirical outcomes and reflect on the persistence of such policies despite their well-known downsides in economic models.
-
----
 -->
 
-## Case
+
+---
+
+## Case Narrative (Student Version)
 
 **Berlin, Winter 2021.**  
 The capital was in turmoil. Over the last decade, rents had more than doubled in many central neighborhoods, pricing out students, artists, and working-class families. With protest slogans like *"Housing for people, not for profit,"* activists pressured lawmakers to take bold action.
@@ -30,31 +31,67 @@ Then came the shock: in April 2021, the German Constitutional Court struck down 
 
 ---
 
-## Task 1: Economic Analysis (Group Work)
+## Task 1: Quantitative Economic Analysis
 
-You are a team of economic advisors evaluating whether another city (e.g., Barcelona, Dublin, or Vienna) should adopt a similar rent control law.
+As economic advisors, you are asked to evaluate whether another city (e.g., Barcelona, Dublin, or Vienna) should adopt a similar rent control policy.
 
-Apply **rigorous economic reasoning** to the following questions:
+Use the following stylized model of the rental housing market to guide your analysis:
 
-1. **Graphical Analysis**: Use a standard supply and demand diagram to illustrate what happens when a binding price ceiling is imposed on rents. What is the short-run vs. long-run effect on housing supply?
-2. **Elasticity and Market Outcomes**: How does the elasticity of supply and demand affect the magnitude of shortages or misallocation?
-3. **Efficiency and Equity**: Who gains and who loses from rent control? Discuss in terms of consumer surplus, producer surplus, and deadweight loss.
-4. **Unintended Consequences**: What were the observed distortions in the Berlin case? How might landlords respond strategically to such regulation?
-5. **Alternative Solutions**: Are there better policies to achieve affordable housing? Consider housing subsidies, construction incentives, or zoning reform.
+### Market Structure
 
-Prepare a short presentation outlining your analysis and concluding with a policy recommendation.
+Let:
+
+- **Demand function**:  
+  \( Q_d = 100 - 2 \cdot P \)
+
+- **Supply function**:  
+  \( Q_s = 2 \cdot P - 20 \)
+
+Where:
+- \( Q_d, Q_s \): Quantity of housing units demanded and supplied (in thousands)
+- \( P \): Monthly rent in hundreds of euros (e.g., \( P = 25 \) = 2,500€)
+
+### Questions
+
+1. **Equilibrium Analysis**  
+   - Find the equilibrium price and quantity by solving \( Q_d = Q_s \).
+
+2. **Surplus or Shortage**  
+   - At \( P = 25 \) and \( P = 35 \), calculate \( Q_d \) and \( Q_s \).  
+   - Determine whether there is a **shortage** or **surplus**, and compute the size.
+
+3. **Impact of Price Ceiling**  
+   - Suppose the government imposes a rent cap at \( P = 20 \).  
+   - Determine the quantity demanded and supplied.  
+   - Use a supply-demand diagram to illustrate the **shortage**.  
+   - (Optional) Calculate the **deadweight loss**.
+
+4. **Elasticity Implications**  
+   - How would the results change in the **long run** if supply becomes more elastic?  
+   - What are the consequences for housing availability and quality?
 
 ---
 
-## Task 2: Policy Persistence and Political Economy (Plenary Discussion)
+## Task 2: Political Economy and Normative Discussion
 
-Despite clear inefficiencies predicted by economic theory, rent controls are popular and politically persistent.
+Despite efficiency losses, rent controls remain popular in many cities.
 
 Discuss:
 
-1. **Why do rent controls remain politically attractive**, even when economists broadly oppose them?
-2. **What role do interest groups, media framing, and voter behavior** play in supporting such interventions?
-3. **Can you identify trade-offs between economic efficiency and political legitimacy** in this context?
+1. Why do voters support rent control even when economists predict negative consequences?
+2. How do **distributional effects**, **media narratives**, and **interest group politics** shape this debate?
+3. Can you propose alternative policies that might better balance **affordability**, **access**, and **efficiency**?
+
+---
+
+## Deliverable
+
+Prepare a short **memo** or **presentation** that includes:
+
+- A clear graphical and analytical evaluation of the rent control policy.
+- A critical assessment of Berlin’s case.
+- A recommendation to a city considering rent regulation.
+- A reflection on the **gap between economic models and real-world policy preferences**.
 
 ---
 
@@ -62,8 +99,8 @@ Discuss:
 
 By the end of this case, students should be able to:
 
-- Apply microeconomic theory to real-world policy interventions
-- Distinguish between short-run and long-run market dynamics
-- Identify and evaluate unintended consequences of price controls
-- Understand the gap between normative economic analysis and political feasibility
-- Construct a reasoned argument combining data, theory, and policy perspective
+- Apply microeconomic models of supply, demand, and price ceilings to real-world policies.
+- Calculate and interpret market outcomes using algebraic and graphical tools.
+- Assess unintended consequences and long-run effects of rent control.
+- Understand why inefficient policies may persist due to political and social considerations.
+- Develop policy alternatives and argue from both a technical and normative perspective.
