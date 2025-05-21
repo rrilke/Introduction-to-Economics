@@ -7,16 +7,16 @@ This course introduces the fundamental concepts of economics, with a focus on mi
 
 #### Day 1
 
-- 09:00 – 09:45: Block 1: Lecture
-- 09:45 – 10:30: Block 2: Lecture
-- 10:30 – 11:15: Block 3: Case Study Group Work
+- 09:00 – 09:45: Block 1: Setting the Stage: Why Economics Matters  
+- 09:45 – 10:30: Block 2: The Marketplace in Action: Demand, Supply & Equilibrium
+- 10:30 – 11:15: Block 3: Case Study Group Work: Price Caps and Regulation
 - 11:15 – 11:35: Break (20 min)
 - 11:35 – 12:20: Block 4: Case Study Presentations
 - 12:20 – 13:05: Block 5: Lecture / Discussion
 
 #### Day 2
 
-- 09:00 – 09:45: Block 6: Lecture
+- 09:00 – 09:45: Block 6: Imperfect Competition: Concepts and Examples
 - 09:45 – 10:30: Block 7: Lecture
 - 10:30 – 11:15: Block 8: Case Study Group Work
 - 11:15 – 11:35: Break (20 min)
