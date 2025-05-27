@@ -2,7 +2,7 @@
 for the Master of Law and Business Orientation Program at the Bucerius Law School
 
 ## Overview
-This course introduces the fundamental concepts of economics, with a focus on microeconomic principles. On the first day, we will explore how economists analyze prices and the effects of regulation on markets. The second day will center on understanding incentives within firms and how these shape economic outcomes. Through lectures, group work, and case study presentations, students will develop a foundational understanding of economic reasoning and its real-world applications.
+This course provides an introduction to key microeconomic concepts relevant for law and business students. On Day 1, we begin by discussing the importance of economics, followed by an in-depth look at how markets function through demand, supply, and equilibrium. Students will engage in a case study on price caps and regulation, working in groups and presenting their findings. Day 2 shifts focus to imperfect competition, including game theory and cartels, with further group work and presentations. The course emphasizes practical application of economic reasoning.
 
 ### Schedule
 
