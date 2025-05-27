@@ -1,5 +1,5 @@
 # Introduction to Economics
-## Orientation Program at the Bucerius Law School
+for the Master of Law and Business Orientation Program at the Bucerius Law School
 
 ## Overview
 This course introduces the fundamental concepts of economics, with a focus on microeconomic principles. On the first day, we will explore how economists analyze prices and the effects of regulation on markets. The second day will center on understanding incentives within firms and how these shape economic outcomes. Through lectures, group work, and case study presentations, students will develop a foundational understanding of economic reasoning and its real-world applications.
