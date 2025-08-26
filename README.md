@@ -1,5 +1,5 @@
 # Introduction to Economics
-for the Master of Law and Business Orientation Program at the Bucerius Law School
+as part of the Orientation Program for the Master of Law and Business at the Bucerius Law School
 
 ## Overview
 This course provides an introduction to key microeconomic concepts relevant for law and business students. On Day 1, we begin by discussing the importance of economics, followed by an in-depth look at how markets function through demand, supply, and equilibrium. Students will engage in a case study on price caps and regulation, working in groups and presenting their findings. Day 2 shifts focus to imperfect competition, including game theory and cartels, with further group work and presentations. The course emphasizes practical application of economic reasoning.
